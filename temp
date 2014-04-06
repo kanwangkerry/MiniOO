@@ -1,0 +1,8 @@
+var r;
+var h1;
+h1=1;
+var p;
+p = proc y: r=y+h1;
+var h2;
+h2=2;
+p(4);
